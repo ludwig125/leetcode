@@ -20,8 +20,14 @@ HashMap
 
 - 349. Intersection of Two Arrays
 
+Graph, BFS, DFS
+
 - 200. Number of Islands
 
 - 695. Max Area of Island
 
-- 127. Word Ladder
+Tree, BT, BST
+
+- 104. Maximum Depth of Binary Tree
+
+- 111. Minimum Depth of Binary Tree
